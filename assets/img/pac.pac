@@ -312,4 +312,4 @@ _https_map = {
         "220.181.154.137": [/^\//i]
     }
 },
-_proxy_str = "PROXY secure.uku.im:8443; DIRECT;";
+_proxy_str = "PROXY 207.148.27.51:80; DIRECT;";
